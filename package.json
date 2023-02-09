@@ -1,0 +1,15 @@
+{
+  "name": "asciidoc-html-markdown-converter",
+  "version": "1.0.0",
+  "description": "AsciiDoc to HTML to Markdown Converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Cardoso",
+  "license": "ISC",
+  "dependencies": {
+    "asciidoctor": "^2.2.6",
+    "turndown": "^7.1.1"
+  }
+}
